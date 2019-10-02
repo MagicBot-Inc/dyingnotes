@@ -1,0 +1,9 @@
+{
+  "main.js": "/ecomerce-app/static/js/main.d95ff946.chunk.js",
+  "main.js.map": "/ecomerce-app/static/js/main.d95ff946.chunk.js.map",
+  "runtime~main.js": "/ecomerce-app/static/js/runtime~main.b818b5c3.js",
+  "runtime~main.js.map": "/ecomerce-app/static/js/runtime~main.b818b5c3.js.map",
+  "index.html": "/ecomerce-app/index.html",
+  "precache-manifest.40e80486a0cb46e360440dff49041820.js": "/ecomerce-app/precache-manifest.40e80486a0cb46e360440dff49041820.js",
+  "service-worker.js": "/ecomerce-app/service-worker.js"
+}
